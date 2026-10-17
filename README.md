@@ -11,3 +11,5 @@ And another line
 ## Local development
 
 1. Open index.html in your browser
+
+2. The Santa Video conference
